@@ -1036,12 +1036,12 @@ a.full_link {
     padding: 0;
     font-weight: 700;
     letter-spacing: 1px;
-    font-size: 36px;
+    font-size: 18px;
     line-height: 1
 }
 
 .fn__maintitle.big {
-    font-size: 60px
+    font-size: 38px
 }
 
 .fn__maintitle[data-align=center] {
@@ -4944,7 +4944,7 @@ a.metaportal_fn_videobutton:hover .icon {
 
     .fn__gradient_title,
     .fn__maintitle.big {
-        font-size: 40px
+        font-size: 38px
     }
 
     .fn_cs_slider .slider_top li.prev {
